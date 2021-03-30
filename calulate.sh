@@ -5,11 +5,12 @@ read number2
 
 addition=$((number1+$number2))
 multiplication=$(($number1*$number2))
-
+#Declare a variable for substraction
 
 echo "Addition of the 2 numbers are $addition"
 
 echo " multiplication of the 2 numbers are $multiplication"
+# print the output for substraction
 
 
 
