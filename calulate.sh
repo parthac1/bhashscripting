@@ -10,7 +10,7 @@ multiplication=$(($number1*$number2))
 echo "Addition of the 2 numbers are $addition"
 
 echo " multiplication of the 2 numbers are $multiplication"
-# print the output for substraction
+#Print the output for substraction
 
 
 
